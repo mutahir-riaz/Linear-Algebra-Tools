@@ -22,3 +22,7 @@ To run the programs, you need:
 Install the required packages:
 ```bash
 pip install numpy
+
+## License
+
+This structure can be customized as you add more features and methods to your repo. Let me know if you need help with specific sections!
