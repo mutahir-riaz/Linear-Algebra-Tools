@@ -22,6 +22,7 @@ To run the programs, you need:
 Install the required packages:
 ```bash
 pip install numpy
+```
 
 ## License
 
